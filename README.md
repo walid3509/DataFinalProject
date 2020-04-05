@@ -17,7 +17,7 @@ Insertion of numbers at the beginning and end of a LinkedList
 	        return getTree().addLast(b)
 # Example
 Example of when used in a purely functional setting, they give an excellent implementation of a double-ended queue with amortized efficient insertion and deletion.
-# algorithm
+# Algorithm
 insertFront(): Adds an item at the front of Deque.
 insertLast(): Adds an item at the rear of Deque.
 deleteFront(): Deletes an item from front of Deque.
@@ -27,4 +27,5 @@ getFront(): Gets the front item from queue.
 getRear(): Gets the last item from queue.
 isEmpty(): Checks whether Deque is empty or not.
 isFull(): Checks whether Deque is full or not.
-#Deployment
+
+# Deployment
